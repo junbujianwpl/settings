@@ -1,7 +1,7 @@
 # source: https://github.com/dracula/mintty
 # MIT License
 
-ForegroundColour=150,0,0
+ForegroundColour=255,110,180
 BackgroundColour=199,237,204
 Black=0,0,0
 BoldBlack=40,42,53
