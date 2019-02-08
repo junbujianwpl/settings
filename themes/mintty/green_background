@@ -1,15 +1,15 @@
 # source: https://github.com/junbujianwpl/settings/blob/master/themes/mintty/green_background
 # MIT License
 
-ForegroundColour=255,110,180
-BackgroundColour=199,237,204
+ForegroundColour=255,110,180         # pink, $ symbol,input
+BackgroundColour=199,237,204		 # bean green
 Black=0,0,0
 BoldBlack=40,42,53
 Red=255,0,0
 BoldRed=255,110,103
-Green=0,139,0
+Green=0,139,0						# user@pc tip
 BoldGreen=90,247,142
-Yellow=139,139,0
+Yellow=139,139,0					# tilde
 BoldYellow=244,0,255
 Blue=0,0,255
 BoldBlue=0,0,205
